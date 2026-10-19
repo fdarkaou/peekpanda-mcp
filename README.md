@@ -1,6 +1,6 @@
 # PeekPanda MCP
 
-PeekPanda is a hosted remote MCP server for iOS app intelligence, creative research, ASO, and App Store market data. The server runs at `https://mcp.peekpanda.com/mcp` over streamable HTTP; this repository contains documentation and registry metadata only, not the server code.
+PeekPanda provides iOS competitor intelligence: Meta ads, App Store keyword positions, ASO, viral posts, and market charts. It is a hosted remote MCP server at `https://mcp.peekpanda.com/mcp` over streamable HTTP; this repository contains documentation and registry metadata only, not the server code.
 
 ## Endpoint
 
